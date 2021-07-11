@@ -1,0 +1,27 @@
+{
+  "name": "myteamprofilemaker",
+  "version": "1.0.0",
+  "description": "Profile maker for a professional team info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "inquirer": "^7.3.0",
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volchenok89/MyTeamProfileMaker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Volchenok89/MyTeamProfileMaker/issues"
+  },
+  "homepage": "https://github.com/Volchenok89/MyTeamProfileMaker#readme"
+}
