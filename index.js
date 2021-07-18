@@ -210,7 +210,7 @@ function addIntern() {
 };
 
 function buildTeam() {
-    fs.writeFileSync('./allhtml/index2.html', renderPage(team), 'UTF-8');
+    fs.writeFileSync("./dist/index.html", renderPage(team), 'UTF-8');
 }
 
 getManager();

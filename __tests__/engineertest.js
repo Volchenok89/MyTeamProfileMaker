@@ -25,5 +25,5 @@ test("Get github via getGithub()", () => {
 test("Get position", () => {
     const engineer = new Engineer("Volchenok", "2", "engineer@jmail.com", "engineer@github.com");
 
-    expect(engineer.getRole()).toBe("Engineer");
+    expect(engineer.getPosition()).toBe("Engineer");
 });
